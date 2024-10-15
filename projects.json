@@ -1,0 +1,56 @@
+[
+      {
+        "id": 0,
+        "title": "Frontend проект",
+        "description": "Сайт по 3д-туру",
+        "image": "tour.jpg",
+        "altName": "works-wrap__img",
+        "github": "https://github.com/NEETRUNNER/VIRTUAL_TOUR",
+        "website": "https://3dtourdnepr.pp.ua/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend проект",
+        "description": "Сайт спортивной тематики",
+        "image": "pulse.jpg",
+        "altName": "works-wrap__img",
+        "github": "https://github.com/NEETRUNNER/PULSE",
+        "website": "https://neetrunner.github.io/PULSE/"
+      },
+      {
+        "id": 2,
+        "title": "Frontend проект",
+        "description": "Сайт по курсу английского языка",
+        "image": "eng.jpg",
+        "altName": "works-wrap__img",
+        "github": "https://github.com/NEETRUNNER/ENGLISH",
+        "website": "https://neetrunner.github.io/ENGLISH/"
+      },
+      {
+        "id": 3,
+        "title": "Frontend проект",
+        "description": "Cайт для продажи окон",
+        "image": "windows.jpg",
+        "altName": "works-wrap__img",
+        "github": "https://github.com/NEETRUNNER/WINDOW",
+        "website": "https://neetrunner.github.io/WINDOW/"
+      },
+      {
+        "id": 4,
+        "title": "Frontend проект",
+        "description": "Веб-приложение для заметок",
+        "image": "notes.jpg",
+        "altName": "works-wrap__img",
+        "github": "https://github.com/NEETRUNNER/NOTES_APP",
+        "website": "https://neetrunner.github.io/NOTES_APP/"
+      },
+      {
+        "id": 5,
+        "title": "Frontend проект",
+        "description": "Веб-приложение по прогнозу погоды",
+        "image": "weather.jpg",
+        "altName": "works-wrap__img",
+        "github": "https://github.com/NEETRUNNER/WEATHER_IN_CITIES",
+        "website": "https://neetrunner.github.io/WEATHER_IN_CITIES/"
+      }   
+]  
