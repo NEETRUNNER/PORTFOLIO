@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/PORTFOLIO/static/css/main.33da600a.css",
-    "main.js": "/PORTFOLIO/static/js/main.c6787955.js",
+    "main.css": "/PORTFOLIO/static/css/main.06d69945.css",
+    "main.js": "/PORTFOLIO/static/js/main.2b67e676.js",
     "static/media/bg.jpg": "/PORTFOLIO/static/media/bg.7c379d8378debc36ca7f.jpg",
     "static/media/bg_2.jpg": "/PORTFOLIO/static/media/bg_2.7d1e4f8cf2b45f3dd29f.jpg",
     "static/media/windows.jpg": "/PORTFOLIO/static/media/windows.2e7db441257f65c4b493.jpg",
     "static/media/tour.jpg": "/PORTFOLIO/static/media/tour.04fba75e8e0f2a749276.jpg",
     "static/media/eng.jpg": "/PORTFOLIO/static/media/eng.10e1053606ea4f7676c7.jpg",
     "static/media/pulse.jpg": "/PORTFOLIO/static/media/pulse.c52483651a4446de21c3.jpg",
+    "static/media/marvel.jpg": "/PORTFOLIO/static/media/marvel.bf09acee9c404a113f62.jpg",
     "static/media/weather.jpg": "/PORTFOLIO/static/media/weather.acd9ac5a9105521fc125.jpg",
     "static/media/notes.jpg": "/PORTFOLIO/static/media/notes.34073771737f66cf8b3e.jpg",
     "static/media/react.svg": "/PORTFOLIO/static/media/react.e7574af26628c8d8cc52d64e015eb898.svg",
@@ -22,11 +23,11 @@
     "static/media/js.svg": "/PORTFOLIO/static/media/js.19600440c8c62e3de974e2bba991871f.svg",
     "index.html": "/PORTFOLIO/index.html",
     "static/media/html.svg": "/PORTFOLIO/static/media/html.8ae3d4adcd70a1028a6377697d9f33b0.svg",
-    "main.33da600a.css.map": "/PORTFOLIO/static/css/main.33da600a.css.map",
-    "main.c6787955.js.map": "/PORTFOLIO/static/js/main.c6787955.js.map"
+    "main.06d69945.css.map": "/PORTFOLIO/static/css/main.06d69945.css.map",
+    "main.2b67e676.js.map": "/PORTFOLIO/static/js/main.2b67e676.js.map"
   },
   "entrypoints": [
-    "static/css/main.33da600a.css",
-    "static/js/main.c6787955.js"
+    "static/css/main.06d69945.css",
+    "static/js/main.2b67e676.js"
   ]
 }
